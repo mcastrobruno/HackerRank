@@ -1,0 +1,6 @@
+D:\Projetos\HackeRank\HackerRank\bin\Debug\HackerRank.exe.config
+D:\Projetos\HackeRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+D:\Projetos\HackeRank\HackerRank\bin\Debug\HackerRank.exe
+D:\Projetos\HackeRank\HackerRank\bin\Debug\HackerRank.pdb
+D:\Projetos\HackeRank\HackerRank\obj\Debug\HackerRank.exe
+D:\Projetos\HackeRank\HackerRank\obj\Debug\HackerRank.pdb
